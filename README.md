@@ -2,7 +2,7 @@
 My PHP and MySQL-based web application for managing flight bookings
 
 ## How to Run
-1. Move the project folder to `C:\xampp\htdocs\`.
+1. Put `index.php` in the project folder in `C:\xampp\htdocs\`.
 2. Import `airline_db.sql` into phpMyAdmin.
 3. Start Apache and MySQL in XAMPP.
 4. Open `localhost/airline_project/index.php` in your browser.
